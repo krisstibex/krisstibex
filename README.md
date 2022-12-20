@@ -4,3 +4,5 @@
 
 ### tg频道 https://t.me/mk4o4
 ### 麻烦各位点点关注 别忘了Star
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krisstibex)](https://github.com/anuraghazra/github-readme-stats)
