@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @krisstibex
-- 👀 I’m interested in breaking GFW
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me t.me/mk4o4
 
-<!---
-krisstibex/krisstibex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![avatar](https://raw.githubusercontent.com/krisstibex/404Zone/main/Other/2FE1BC60-FD06-4C3B-A636-E3E956331B84.jpeg)
+
+放一只可爱的Miku在这里 ❤️❤️❤️
+
+[![Miku404‘s GitHub stats](https://github-readme-stats.vercel.app/api?username=krisstibex&show_icons=true&count_private=true&theme=vue)](https://github.com/krisstibex/Profiles)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisstibex&layout=compact&theme=vue)](https://github.com/krisstibex/404Zone)
