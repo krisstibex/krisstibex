@@ -15,6 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [sing-box windows食用指南](https://www.miku404.eu.org/article/2024/09/25/easy-to-use-sing-box)
+- [如何搭建属于你的blog](https://www.miku404.eu.org/article/2024/09/18/how-to-build-ur-blog)
+- [Re:从零开始的机场维护](https://www.miku404.eu.org/article/2024/09/17/easy-airport-2)
+- [Re:从零开始的机场搭建](https://www.miku404.eu.org/article/2024/09/17/easy-airport)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
