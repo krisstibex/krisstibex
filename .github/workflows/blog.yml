@@ -10,4 +10,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://www.miku404.eu.org/rss/feed.xml"
+                feed_list: "https://github.com/krisstibex/krisstibex/raw/main/rss.txt"
