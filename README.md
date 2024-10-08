@@ -23,7 +23,7 @@
 <a href="https://fb.com/krisstibex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krisstibex" height="30" width="40" /></a>
 <a href="https://instagram.com/krisstibex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krisstibex" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mk4o4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mk4o4" height="30" width="40" /></a>
-<a href="/https://www.miku404.eu.org/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.miku404.eu.org/rss" height="30" width="40" /></a>
+<a href="/https://www.miku404.eu.org/rss/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.miku404.eu.org/rss/feed.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
